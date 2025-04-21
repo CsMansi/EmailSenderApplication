@@ -17,7 +17,7 @@
 
 <h2>Project Structure</h2>
 <pre>
-EmailSender/
+EmailSenderApplication/
 ├── src/
 │   ├── main/
 │   │   ├── java/com/emailsender/
@@ -43,7 +43,7 @@ EmailSender/
 <h2>Setup Instructions</h2>
 <h3>Clone the Repository</h3>
 <pre>
-git clone https://github.com/your-username/email-sender.git
+git clone https://github.com/your-username/EmailSenderApplication.git
 cd email-sender
 </pre>
 
