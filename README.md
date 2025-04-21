@@ -1,4 +1,3 @@
-# EmailSenderApplication
 <h1>Email Sender Application</h1>
 
 <p>
